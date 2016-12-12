@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.1.5'
+ruby '2.3.1'
 
 gem 'rails',             github: 'rails/rails'
 gem 'jsonapi-resources', github: 'cerebris/jsonapi-resources'
